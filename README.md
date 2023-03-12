@@ -7,3 +7,41 @@ This is machine learning project
 3. [VS Code IDE](https://code.visualstudio.com/download)
 4. [GIT cli](https://git-scm.com/downloads)
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
+
+
+
+'''
+conda create -p venv python==3.7 -y 
+'''
+
+
+'''
+pip install -r requirements.txt 
+'''
+
+To add file 
+'''
+git add. 
+'''
+
+Note:- To ignore  file or folder from git we can write name of the file/folder in .gitignore file 
+
+To check the status 
+'''
+git status 
+'''
+
+To create version/commit all  changes by git 
+'''
+git commit -m "messages "
+'''
+
+To send version/changes to github 
+'''
+git push origin main 
+'''
+
+To check remote url 
+'''
+get remote -v
+'''
