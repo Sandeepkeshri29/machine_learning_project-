@@ -45,3 +45,9 @@ To check remote url
 '''
 get remote -v
 '''
+
+To setup CI/CD pipeline in heroku we need 3 information
+
+RENDER_EMAIL = sandeepkeshri2909py@gmail.com
+RENDER_API_KEY = 59719cba-6680-4840-8490-dbed05586951
+RENDER_APP_NAME = ml-regression-app
